@@ -1,0 +1,16 @@
+# Folder sampah Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/android/.gradle/
+frontend/ios/.symlinks/
+frontend/ios/Pods/
+
+# Folder sampah Python
+backend/__pycache__/
+backend/venv/
+backend/.env
+*.pyc
+
+# Sistem
+.DS_Store
