@@ -1,0 +1,75 @@
+[
+  {
+    "nim": "12345",
+    "sessions": [
+      {
+        "id": "1763196455693",
+        "title": "jadwal kuliah jumat...",
+        "last_updated": "2025-11-15 15:48",
+        "messages": [
+          {
+            "sender": "user",
+            "text": "jadwal kuliah jumat"
+          },
+          {
+            "sender": "bot",
+            "text": "Jadwal kuliah hari **Jumat**:\n• Manajemen Proyek IT (13:30 - 15:10) di R. Teori 3.4"
+          }
+        ]
+      },
+      {
+        "id": "1763191598919",
+        "title": "Jadwal Kuliah Hari Ini...",
+        "last_updated": "2025-11-15 14:26",
+        "messages": [
+          {
+            "sender": "user",
+            "text": "Jadwal Kuliah Hari Ini"
+          },
+          {
+            "sender": "bot",
+            "text": "Maaf, saya belum mengerti pertanyaan itu."
+          },
+          {
+            "sender": "user",
+            "text": "Syarat Cuti Akademik"
+          },
+          {
+            "sender": "bot",
+            "text": "Mahasiswa harus sudah menempuh minimal 2 semester dan lunas administrasi."
+          }
+        ]
+      },
+      {
+        "id": "1763190514319",
+        "title": "berapa ipk aku...",
+        "last_updated": "2025-11-15 14:08",
+        "messages": [
+          {
+            "sender": "user",
+            "text": "berapa ipk aku"
+          },
+          {
+            "sender": "bot",
+            "text": "Halo Doni, IPK kamu: 3.85."
+          }
+        ]
+      },
+      {
+        "id": "1763190495042",
+        "title": "syarat mengambil cuti...",
+        "last_updated": "2025-11-15 14:08",
+        "messages": [
+          {
+            "sender": "user",
+            "text": "syarat mengambil cuti"
+          },
+          {
+            "sender": "bot",
+            "text": "Mahasiswa harus sudah menempuh minimal 2 semester dan lunas administrasi."
+          }
+        ]
+      }
+    ]
+  }
+]

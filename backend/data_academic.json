@@ -1,0 +1,72 @@
+{
+  "mahasiswa": {
+    "nama": "Doni Setiawan Wahyono",
+    "nim": "230601124",
+    "prodi": "S1 Teknik Informatika",
+    "fakultas": "Fakultas Teknologi Industri",
+    "semester": 5,
+    "status": "Aktif",
+    "ipk": 3.88,
+    "sks_total": 104,
+    "dosen_wali": {
+      "nama": "Dr. Budi Santoso, M.Kom",
+      "nip": "198501252010121003",
+      "kontak": "0812-3456-7890",
+      "email": "budi.santoso@utb.ac.id"
+    }
+  },
+  "keuangan": {
+    "status_pembayaran": "Lunas",
+    "tagihan_semester": 6500000,
+    "tenggat_waktu": "2025-01-20",
+    "virtual_account": "8801230601124"
+  },
+  "jadwal_kuliah": [
+    {
+      "hari": "Senin",
+      "matkul": "Mobile Programming",
+      "jam": "08:00 - 10:30",
+      "ruang": "Lab Komputer 3",
+      "dosen": "Pak Indra"
+    },
+    {
+      "hari": "Senin",
+      "matkul": "Kecerdasan Buatan",
+      "jam": "13:00 - 15:30",
+      "ruang": "R. Teori 2.1",
+      "dosen": "Bu Rina"
+    },
+    {
+      "hari": "Rabu",
+      "matkul": "Keamanan Jaringan",
+      "jam": "10:00 - 12:30",
+      "ruang": "Lab Jaringan",
+      "dosen": "Pak Teguh"
+    },
+    {
+      "hari": "Kamis",
+      "matkul": "Desain Aplikasi Kreatif",
+      "jam": "09:00 - 11:30",
+      "ruang": "Studio Multimedia",
+      "dosen": "Bu Sarah"
+    },
+    {
+      "hari": "Jumat",
+      "matkul": "Manajemen Proyek IT",
+      "jam": "13:30 - 15:10",
+      "ruang": "R. Teori 3.4",
+      "dosen": "Pak Wisnu"
+    }
+  ],
+  "kalender_akademik": {
+    "uts_mulai": "2025-11-10",
+    "uts_selesai": "2025-11-21",
+    "uas_mulai": "2026-01-15",
+    "uas_selesai": "2026-01-26",
+    "libur_semester": "2026-02-01"
+  },
+  "info_umum": {
+    "syarat_cuti": "Mahasiswa dapat mengajukan cuti akademik maksimal 2 semester. Pengajuan dilakukan melalui portal akademik minimal 1 bulan sebelum semester dimulai dan melunasi biaya registrasi cuti.",
+    "beasiswa": "Saat ini tersedia pendaftaran Beasiswa PPA (Peningkatan Prestasi Akademik) untuk mahasiswa semester 5 dengan IPK minimal 3.50. Batas pendaftaran 30 November 2025."
+  }
+}
