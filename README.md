@@ -1,7 +1,7 @@
 # SmartUTB Assistant 🎓🤖
 
-<p align="center">
-  <img src="docs/banner_smartutb.png" alt="SmartUTB Banner" width="70%" />
+<p align="left">
+  <img src="docs/banner_smartutb.png" alt="SmartUTB Banner" width="50%" />
 </p>
 
 **SmartUTB Assistant** adalah aplikasi mobile *Full Stack* yang berfungsi sebagai asisten akademik cerdas bagi mahasiswa Universitas Teknologi Bandung (UTB).
