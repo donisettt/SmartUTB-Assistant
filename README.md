@@ -1,6 +1,8 @@
 # SmartUTB Assistant 🎓🤖
 
-![SmartUTB Banner](docs/banner_smartutb.png)
+<p align="center">
+  <img src="docs/banner_smartutb.png" alt="SmartUTB Banner" width="70%" />
+</p>
 
 **SmartUTB Assistant** adalah aplikasi mobile *Full Stack* yang berfungsi sebagai asisten akademik cerdas bagi mahasiswa Universitas Teknologi Bandung (UTB).
 
@@ -51,11 +53,11 @@ Dibangun menggunakan **Python Flask**.
 
 Project ini dibuat dengan ❤️ oleh:
 
-**Doni Setiawan Wahyono**
-* **Role:** Mobile Application Developer
-* **Kampus:** Universitas Teknologi Bandung
-* **NPM:** 23552011146
+**Doni Setiawan Wahyono**  
+* **Role:** Mobile Application Developer  
+* **Kampus:** Universitas Teknologi Bandung  
+* **NPM:** 23552011146  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/doni-setiawan-wahyono)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://www.github.com/donisettt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/doni-setiawan-wahyono)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://www.github.com/donisettt)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple.svg)](https://www.instagram.com/dnisetyaw)
